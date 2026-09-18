@@ -1,4 +1,4 @@
-## Interface: 50500, 50501, 50502, 50503, 50504
+## Interface: 16001
 ## Version: 1.06
 ## Author: Pirson
 

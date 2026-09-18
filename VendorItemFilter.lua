@@ -3,6 +3,11 @@ VendorItemFilter = {}
 VendorItemFilter.currentFilter = "ALL"
 local L = addonTable.L
 
+-- Retail 11+ y Forever ya no traen los globales antiguos; MoP Classic 5.5 trae
+-- las dos formas. Se usa la de C_* si existe.
+local GetItemInfo = (C_Item and C_Item.GetItemInfo) or GetItemInfo
+local IsAddOnLoaded = (C_AddOns and C_AddOns.IsAddOnLoaded) or IsAddOnLoaded
+
 local function SaveFilter(filterKey)
     VendorItemFilterDB = VendorItemFilterDB or {}
     VendorItemFilterDB.lastFilter = filterKey
@@ -81,6 +86,7 @@ VendorItemFilter.WeaponCategories = {
 local function ShouldShowItem(link)
     if not link or VendorItemFilter.currentFilter=="ALL" then return true end
     local _, _, _, _, _, itemType, itemSubType, _, itemEquipLoc = GetItemInfo(link)
+    if not itemEquipLoc then return true end -- sin cachear todavia: no ocultar
     local f = VendorItemFilter.currentFilter
 
     if f:find("_") then
