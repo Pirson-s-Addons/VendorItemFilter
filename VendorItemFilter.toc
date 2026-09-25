@@ -1,25 +1,123 @@
 ## Interface: 50500, 50501, 50502, 50503, 50504
-## Version: 1.06
+## Version: 1.07
 ## Author: Pirson
 
-## Title: |TInterface/Addons/VendorItemFilter/img/logo_vif:16:16|t |cffd597ffVendor Item Filter|r
+## IconTexture: Interface\AddOns\VendorItemFilter\img\logo_vif
+## Title: |cffd597ffVendor Item Filter|r
+
+# https://warcraft.wiki.gg/wiki/Addon_Categories
+## Category: Bags & Inventory
+## Category-deDE: Taschen & Inventar
+## Category-esES: Bolsas e inventario
+## Category-esMX: Bolsas e inventario
+## Category-frFR: Sacs et inventaire
+## Category-itIT: Borse e inventario
+## Category-koKR: 가방 및 소지품
+## Category-ptBR: Bolsas e inventário
+## Category-ruRU: Сумки и инвентарь
+## Category-zhCN: 背包与物品
+## Category-zhTW: 背包與物品
+## Category-plPL: Torby i ekwipunek
+## Category-svSE: Väskor och inventarie
+## Category-noNO: Vesker og inventar
+## Category-csCZ: Brašny a inventář
+## Category-nlNL: Tassen en inventaris
+## Category-roRO: Genți și inventar
+## Category-huHU: Táskák és felszerelés
+## Category-elGR: Τσάντες και αποθέματα
+## Category-ukUA: Сумки й інвентар
+## Category-daDK: Tasker og inventar
+## Category-fiFI: Laukut ja tavaraluettelo
+## Category-skSK: Tašky a inventár
+## Category-bgBG: Чанти и инвентар
+## Category-hrHR: Torbe i inventar
+## Category-srRS: Torbe i inventar
+## Category-slSI: Torbe in inventar
+## Category-ltLT: Krepšiai ir inventorius
+## Category-lvLV: Somas un inventārs
+## Category-etEE: Kotid ja inventar
+## Category-idID: Tas dan inventaris
+## Category-msMY: Beg dan inventori
+## Category-faIR: کیف‌ها و موجودی
+## Category-heIL: תיקים ומלאי
+## Category-bnBD: ব্যাগ ও ইনভেন্টরি
+## Category-urPK: بیگز اور انوینٹری
+## Category-taIN: பைகள் மற்றும் சரக்குகள்
+## Category-teIN: సంచులు మరియు సామగ్రి
+## Category-trTR: Çantalar ve envanter
+## Category-jaJP: バッグとインベントリ
+## Category-arSA: الحقائب والمخزون
+## Category-hiIN: बैग और इन्वेंटरी
+## Category-thTH: กระเป๋าและช่องเก็บของ
+## Category-viVN: Túi và hành trang
 
 ## Notes: |cFF33CCFFFilter items in the vendor frame by type, armor, weapons, or accessories.|r
+## Notes-deDE: |cFF33CCFFFiltert Gegenstände im Händlerfenster nach Typ, Rüstung, Waffen oder Zubehör.|r
 ## Notes-esES: |cFF33CCFFFiltra los objetos en la ventana del vendedor por tipo, armadura, armas o accesorios.|r
 ## Notes-esMX: |cFF33CCFFFiltra los objetos en la ventana del vendedor por tipo, armadura, armas o accesorios.|r
-## Notes-deDE: |cFF33CCFFFiltert Gegenstände im Händlerfenster nach Typ, Rüstung, Waffen oder Zubehör.|r
 ## Notes-frFR: |cFF33CCFFFiltre les objets dans la fenêtre du marchand par type, armure, armes ou accessoires.|r
 ## Notes-itIT: |cFF33CCFFFiltra gli oggetti nella finestra del mercante per tipo, armatura, armi o accessori.|r
 ## Notes-koKR: |cFF33CCFF상인 창에서 아이템을 종류, 방어구, 무기 또는 장신구별로 필터링합니다.|r
 ## Notes-ptBR: |cFF33CCFFFiltra os itens na janela do vendedor por tipo, armadura, armas ou acessórios.|r
-## Notes-ptPT: |cFF33CCFFFiltra os itens na janela do vendedor por tipo, armadura, armas ou acessórios.|r
 ## Notes-ruRU: |cFF33CCFFФильтрует предметы в окне торговца по типу, броне, оружию или аксессуарам.|r
 ## Notes-zhCN: |cFF33CCFF在商人界面中按类型、护甲、武器或配饰过滤物品。|r
 ## Notes-zhTW: |cFF33CCFF在商人界面中按类型、護甲、武器或配件過濾物品。|r
+## Notes-plPL: |cFF33CCFFFiltruj przedmioty w oknie handlarza według typu, pancerza, broni lub dodatków.|r
+## Notes-svSE: |cFF33CCFFFiltrera föremål i handlarfönstret efter typ, rustning, vapen eller tillbehör.|r
+## Notes-noNO: |cFF33CCFFFiltrer gjenstander i handelsvinduet etter type, rustning, våpen eller tilbehør.|r
+## Notes-csCZ: |cFF33CCFFFiltruj předměty v okně obchodníka podle typu, zbroje, zbraní nebo doplňků.|r
+## Notes-nlNL: |cFF33CCFFFilter voorwerpen in het handelaarsvenster op type, harnas, wapens of accessoires.|r
+## Notes-roRO: |cFF33CCFFFiltrează obiectele din fereastra negustorului după tip, armură, arme sau accesorii.|r
+## Notes-huHU: |cFF33CCFFSzűrd a kereskedő ablakában lévő tárgyakat típus, páncél, fegyverek vagy kiegészítők szerint.|r
+## Notes-elGR: |cFF33CCFFΦίλτραρε τα αντικείμενα στο παράθυρο του εμπόρου ανά τύπο, πανοπλία, όπλα ή αξεσουάρ.|r
+## Notes-ukUA: |cFF33CCFFФільтруй предмети у вікні торговця за типом, обладунками, зброєю або аксесуарами.|r
+## Notes-daDK: |cFF33CCFFFiltrer genstande i forhandlervinduet efter type, rustning, våben eller tilbehør.|r
+## Notes-fiFI: |cFF33CCFFSuodata kauppiasikkunan esineitä tyypin, panssarin, aseiden tai asusteiden mukaan.|r
+## Notes-skSK: |cFF33CCFFFiltruj predmety v okne obchodníka podľa typu, zbroje, zbraní alebo doplnkov.|r
+## Notes-bgBG: |cFF33CCFFФилтрирай предметите в прозореца на търговеца по вид, броня, оръжия или аксесоари.|r
+## Notes-hrHR: |cFF33CCFFFiltriraj predmete u prozoru trgovca prema vrsti, oklopu, oružju ili dodacima.|r
+## Notes-srRS: |cFF33CCFFFiltriraj predmete u prozoru trgovca prema vrsti, oklopu, oružju ili dodacima.|r
+## Notes-slSI: |cFF33CCFFFiltriraj predmete v oknu trgovca po vrsti, oklepu, orožju ali dodatkih.|r
+## Notes-ltLT: |cFF33CCFFFiltruok daiktus prekeivio lange pagal tipą, šarvus, ginklus ar aksesuarus.|r
+## Notes-lvLV: |cFF33CCFFFiltrē priekšmetus tirgotāja logā pēc veida, bruņām, ieročiem vai aksesuāriem.|r
+## Notes-etEE: |cFF33CCFFFiltreeri kaupmehe aknas esemeid tüübi, soomuse, relvade või aksessuaaride järgi.|r
+## Notes-idID: |cFF33CCFFSaring item di jendela pedagang menurut jenis, zirah, senjata, atau aksesori.|r
+## Notes-msMY: |cFF33CCFFTapis item dalam tetingkap penjual mengikut jenis, perisai, senjata atau aksesori.|r
+## Notes-faIR: |cFF33CCFFآیتم‌های پنجره‌ی فروشنده را بر اساس نوع، زره، سلاح یا لوازم جانبی فیلتر کنید.|r
+## Notes-heIL: |cFF33CCFFסנן חפצים בחלון הסוחר לפי סוג, שריון, נשק או אביזרים.|r
+## Notes-bnBD: |cFF33CCFFবিক্রেতার উইন্ডোতে ধরন, বর্ম, অস্ত্র বা আনুষঙ্গিক অনুযায়ী আইটেম ফিল্টার করুন।|r
+## Notes-urPK: |cFF33CCFFوینڈر ونڈو میں اشیاء کو قسم، زرہ، ہتھیاروں یا لوازمات کے لحاظ سے فلٹر کریں۔|r
+## Notes-taIN: |cFF33CCFFவிற்பனையாளர் சாளரத்தில் பொருட்களை வகை, கவசம், ஆயுதங்கள் அல்லது துணைப்பொருட்கள் வாரியாக வடிகட்டுங்கள்.|r
+## Notes-teIN: |cFF33CCFFవ్యాపారి విండోలో వస్తువులను రకం, కవచం, ఆయుధాలు లేదా ఉపకరణాల వారీగా ఫిల్టర్ చేయండి.|r
+## Notes-trTR: |cFF33CCFFSatıcı penceresindeki eşyaları türe, zırha, silahlara veya aksesuarlara göre filtrele.|r
+## Notes-jaJP: |cFF33CCFF商人ウィンドウのアイテムを種類、防具、武器、アクセサリーで絞り込みます。|r
+## Notes-arSA: |cFF33CCFFصفِّ العناصر في نافذة التاجر حسب النوع أو الدروع أو الأسلحة أو الإكسسوارات.|r
+## Notes-hiIN: |cFF33CCFFविक्रेता विंडो में वस्तुओं को प्रकार, कवच, हथियार या सहायक सामग्री के अनुसार फ़िल्टर करें।|r
+## Notes-thTH: |cFF33CCFFกรองไอเท็มในหน้าต่างพ่อค้าตามประเภท เกราะ อาวุธ หรือเครื่องประดับ|r
+## Notes-viVN: |cFF33CCFFLọc vật phẩm trong cửa sổ thương nhân theo loại, giáp, vũ khí hoặc phụ kiện.|r
 
 ## SavedVariables: VendorItemFilterDB
 
 ## X-Curse-Project-ID: 1343504
 
-Locales.lua
-VendorItemFilter.lua
+Locales/enUS.lua
+Locales/esES.lua
+Locales/deDE.lua
+Locales/frFR.lua
+Locales/itIT.lua
+Locales/ptBR.lua
+Locales/ruRU.lua
+Locales/koKR.lua
+Locales/zhCN.lua
+Locales/zhTW.lua
+Locales/plPL.lua
+Locales/svSE.lua
+Locales/noNO.lua
+Locales/trTR.lua
+Locales/jaJP.lua
+Locales/arSA.lua
+Locales/hiIN.lua
+Locales/thTH.lua
+Locales/viVN.lua
+Locales/csCZ.lua
+Core/VendorItemFilter.lua
