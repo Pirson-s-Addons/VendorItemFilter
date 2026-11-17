@@ -48,7 +48,7 @@
 1. Descarga el zip de la [última release](https://github.com/Pirson-s-Addons/VendorItemFilter/releases/latest) o de [CurseForge](https://www.curseforge.com/wow/addons/vendor-item-filter).
 2. Extrae la carpeta `VendorItemFilter` en:
    - `World of Warcraft/_classic_/Interface/AddOns/` (Mists of Pandaria Classic)
-   - `World of Warcraft/_classic_beta_/Interface/AddOns/` (WoW Forever)
+   - `World of Warcraft/_forever_/Interface/AddOns/` (WoW Forever)
 3. Reinicia el juego y activa el addon.
 
 ## Notas
