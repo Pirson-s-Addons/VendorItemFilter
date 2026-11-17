@@ -99,6 +99,10 @@
 ## SavedVariables: VendorItemFilterDB
 
 ## X-Curse-Project-ID: 1343504
+## X-License: MIT
+## X-Copyright: Copyright (c) 2025-2026 Pirson
+## X-Website: https://github.com/Pirson-s-Addons/VendorItemFilter
+## X-Localizations: enUS, esES, esMX, deDE, frFR, itIT, ptBR, ruRU, koKR, zhCN, zhTW, plPL, svSE, noNO, trTR, jaJP, arSA, hiIN, thTH, viVN, csCZ
 
 Locales/enUS.lua
 Locales/esES.lua
