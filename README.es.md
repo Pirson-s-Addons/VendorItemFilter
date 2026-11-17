@@ -1,26 +1,13 @@
-<h1 align="center">Vendor Item Filter</h1>
+<p align="center"><a href="https://www.curseforge.com/wow/addons/vendor-item-filter"><img src="https://raw.githubusercontent.com/Pirson-s-Addons/.github/main/profile/assets/readme-vf-es.svg" width="100%" alt="Vendor Item Filter"/></a></p>
+
+<p align="center"><a href="README.md">English</a> · <b>Español</b></p>
 
 <p align="center">
-  <b>Filtra los objetos del vendedor por tipo de armadura, ranura, joyería o categoría de arma</b>
+<a href="https://www.curseforge.com/wow/addons/vendor-item-filter"><b>CurseForge</b></a> ·
+<a href="https://github.com/Pirson-s-Addons/VendorItemFilter/releases/latest"><b>Descargar</b></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/Pirson-s-Addons/VendorItemFilter/releases/latest">
-<img src="https://img.shields.io/github/v/release/Pirson-s-Addons/VendorItemFilter?style=for-the-badge&color=A78BFA">
-</a>
-<img src="https://img.shields.io/badge/WoW-Mists_·_Forever-C4B5FD?style=for-the-badge">
-<a href="LICENSE">
-<img src="https://img.shields.io/badge/License-MIT-E9D5FF?style=for-the-badge">
-</a>
-</p>
-
-<p align="center">
-<a href="README.md">🇬🇧 English</a>
-</p>
-
----
-
-## 📸 Capturas
+## Capturas
 
 <table>
 <tr>
@@ -36,12 +23,12 @@
 </tr>
 </table>
 
----
-
 ## Qué hace
+
 **Vendor Item Filter** añade un desplegable en la parte superior de la ventana del vendedor. Eliges una categoría y solo quedan a la vista los objetos que encajan, así encuentras lo que buscas en vendedores con listas largas.
 
 ## Funciones
+
 - **Armadura → Tipos**: tela, cuero, malla o placas, ya sea el tipo entero o una sola ranura (cabeza, hombros, pecho, cintura, piernas, pies, muñecas, manos).
 - **Armadura → Joyería**: cuello, anillos, abalorios.
 - **Armadura → Otros**: capas, reliquias (objetos de calidad reliquia), escudos, mano izquierda, camisas, tabardos.
@@ -51,21 +38,26 @@
 - Con ElvUI cargado, el desplegable pasa a la esquina inferior izquierda de la ventana.
 - Traducido a los principales idiomas del cliente.
 
+## Uso
+
+- Abre cualquier vendedor y elige un filtro en el desplegable de la parte superior de la ventana.
+- No tiene comandos ni panel de opciones.
+
 ## Instalación
+
 1. Descarga el zip de la [última release](https://github.com/Pirson-s-Addons/VendorItemFilter/releases/latest) o de [CurseForge](https://www.curseforge.com/wow/addons/vendor-item-filter).
 2. Extrae la carpeta `VendorItemFilter` en:
    - `World of Warcraft/_classic_/Interface/AddOns/` (Mists of Pandaria Classic)
    - `World of Warcraft/_classic_beta_/Interface/AddOns/` (WoW Forever)
 3. Reinicia el juego y activa el addon.
 
-## Uso
-- Abre cualquier vendedor y elige un filtro en el desplegable de la parte superior de la ventana.
-- No tiene comandos ni panel de opciones.
-
 ## Notas
+
 - El filtro funciona página a página: los objetos ocultos dejan su hueco vacío en lugar de recolocar el resto.
 - Los objetos cuyos datos aún no ha cargado el juego se muestran hasta que llegan.
 
----
-
 **Autor**: Pirson · [GitHub](https://github.com/Pirson-s-Addons) · [CurseForge](https://www.curseforge.com/members/pirson/projects) · Licencia MIT
+
+<br/>
+
+<p align="center"><a href="https://github.com/Pirson-s-Addons"><img src="https://raw.githubusercontent.com/Pirson-s-Addons/.github/main/profile/assets/readme-footer-es.svg" width="100%" alt="Parte de Pirson's Addons. Ver todos los addons."/></a></p>
