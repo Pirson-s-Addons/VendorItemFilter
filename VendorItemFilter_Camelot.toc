@@ -1,5 +1,5 @@
 ## Interface: 16001
-## Version: 1.08
+## Version: 1.09
 ## Author: Pirson
 
 ## IconTexture: Interface\AddOns\VendorItemFilter\img\logo_vif
