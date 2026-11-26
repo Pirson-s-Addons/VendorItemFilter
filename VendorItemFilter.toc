@@ -97,6 +97,7 @@
 ## Notes-viVN: |cFF33CCFFLọc vật phẩm trong cửa sổ thương nhân theo loại, giáp, vũ khí hoặc phụ kiện.|r
 
 ## SavedVariables: VendorItemFilterDB
+## OptionalDeps: ElvUI
 
 ## X-Curse-Project-ID: 1343504
 ## X-Wago-ID: rNkgXBNa
